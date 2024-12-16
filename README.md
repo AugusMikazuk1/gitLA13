@@ -2,8 +2,8 @@
 This is our first GitHub 
 activity. 
 Members names: 
-- Rica, John Carlo (leader) -
-- Gutierrez, Kenneth -
-- Baldonado, Rafael - 
-- Reynadlo, Javier -
+- Rica, John Carlo (leader) 
+- Gutierrez, Kenneth 
+- Baldonado, Rafael  
+- Reynadlo, Javier 
 - Espanola, Denzel
