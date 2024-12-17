@@ -5,5 +5,5 @@ Members names:
 - Rica, John Carlo (leader) 
 - Gutierrez, Kenneth 
 - Baldonado, Rafael  
-- Reynadlo, Javier 
+- Reynaldo, Javier 
 - Espanola, Denzel
